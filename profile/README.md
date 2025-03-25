@@ -1,4 +1,3 @@
-# .github
 # International Monetary Fund on GitHub
 
 Welcome to the IMF’s GitHub organization! 
